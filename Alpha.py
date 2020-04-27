@@ -18,8 +18,8 @@ logo = '''
     \033[0m  \033[32m   \033[1m        :::::::::::...::::::::::::::::::::::::::::::::::::::::::::::::
 
    \033[0m  \033[34m   \033[1m     }--{+} Coded By Manisso the original pytube creator. }--{+} 		    
-   \033[0m  \033[34m   \033[1m     }--{+} Updatet by UnknowSociety/Alpha/JackSkiller	  }--{+}	         	     
-   \033[0m  \033[34m   \033[1m     }--{+} Lets download some stuff. 		          }--{+} 	     
+   \033[0m  \033[34m   \033[1m     }--{+} Updatet by Alpha                              }--{+}	         	     
+   \033[0m  \033[34m   \033[1m     }--{+} Lets download some stuff. 		            }--{+} 	     
    \033[0m  \033[34m   \033[1m     }--{+} supported platforms see Text                  }--{+}
 '''
 menu = '''\033[5m \033[31m \033[1m
